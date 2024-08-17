@@ -4,7 +4,7 @@
 
 
 
-# Project Name
+# Edjuaring
 "The Edjuaring" is an epic and captivating game that draws players into a heroic journey. The storyline revolves around a brave knight who goes on a  quest to defeat the most powerful villain in the entire universe, a tyrant who has been terrorizing the kingdom's people.
 
 The game unfolds across three intense levels:
@@ -43,6 +43,12 @@ These streamlined controls allow players to fully immerse themselves in the thri
 - **Free Assets**: Additionally, a few free assets obtained from Google are incorporated into the game. These assets include sprites, textures, and other visual elements that complement the custom images, adding depth and variety to the game's design.
 
 ## How to configure
-Instructions for setting up project
+To set up and run the "Eduaring" game in Godot:
+
+1. **Open the Project:** First, ensure that you have the "Eduaring" game project open in Godot.
+2. **Select the Main Scene:** In the FileSystem panel, locate and click on the `main.tscn` file, which is likely the main scene of your game.
+3. **Run the Project:** Once the `main.tscn` is selected, you can run the project by clicking on the "Play" button at the top of the Godot editor, or by pressing `F5`.
+
+This will start the game using the selected `main.tscn` scene.
 ## How to Run
 Instructions for running
