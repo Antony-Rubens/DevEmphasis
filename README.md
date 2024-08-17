@@ -43,12 +43,17 @@ These streamlined controls allow players to fully immerse themselves in the thri
 - **Free Assets**: Additionally, a few free assets obtained from Google are incorporated into the game. These assets include sprites, textures, and other visual elements that complement the custom images, adding depth and variety to the game's design.
 
 ## How to configure
-To set up and run the "Eduaring" game in Godot:
+First File - "Edjuaring Part1":
 
-1. **Open the Project:** First, ensure that you have the "Eduaring" game project open in Godot.
-2. **Select the Main Scene:** In the FileSystem panel, locate and click on the `main.tscn` file, which is likely the main scene of your game.
-3. **Run the Project:** Once the `main.tscn` is selected, you can run the project by clicking on the "Play" button at the top of the Godot editor, or by pressing `F5`.
+This file seems to be compressed or packaged with a .godot extension.
+You need to extract the contents of this file and rename the extracted file to have a .godot extension.
+Second File - "Edjuaring Part 2":
 
-This will start the game using the selected `main.tscn` scene.
+This is referred to as the "imported file."
+After extracting the first file, place this "Edjuaring Part 2" into the directory created or specified by the first file.
+Remaining Files:
+
+Extract these files as well.
+The extracted contents should be placed into the same "import" directory or folder where the "Edjuaring Part 2" is located.
 ## How to Run
 Instructions for running
