@@ -25,7 +25,8 @@ The game unfolds across three intense levels:
 3. Amrita Jyothi
 4. Alan Varghese
 ## Link to product walkthrough
-[link to video](Link Here)
+https://github.com/user-attachments/assets/96941e18-cbfc-4f80-a7a0-019edd43bdc5
+
 ## How it Works ?
 1. "The Edjuaring" features simple and intuitive mechanics that make it accessible to players of all skill levels. The controls are straightforward, ensuring that the focus remains on the adventure and the challenges within the game:
 
